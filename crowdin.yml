@@ -1,0 +1,4 @@
+files:
+  - source: /**/*en-US
+    translation: /**/%file_name%-%locale%.%file_extension%
+    translate_attributes: '0'
